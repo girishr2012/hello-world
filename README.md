@@ -1,3 +1,2 @@
 # hello-world
-Just Another New Repository
-Hi, i m girish
+This is a new branch written to implement read-me feature.
