@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bns:PackagedComponentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bns="http://api.platform.boomi.com/" packageId="073fbe3a-8ff5-4d01-bcea-1ef0b5b806c7">
+    <bns:componentInfo id="3b14123f-010b-4829-9252-186fdf9a4964" version="2"/>
+    <bns:componentInfo id="4d34870b-5ee1-4c87-a39d-30aa41b0e319" version="3"/>
+    <bns:componentInfo id="8516d178-0138-4845-9c0b-e4a8be3b3455" version="5"/>
+    <bns:componentInfo id="275480ae-30c4-4800-9b4b-60a9939cf1c6" version="12"/>
+</bns:PackagedComponentManifest>
